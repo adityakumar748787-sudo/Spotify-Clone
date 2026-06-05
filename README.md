@@ -3,7 +3,7 @@
 Description:
 This project is a basic Spotify Clone built using only HTML and CSS. It focuses on recreating the user interface of the Spotify music streaming platform. The project demonstrates frontend design skills such as layout creation, styling, and responsive design without using JavaScript or backend technologies.
 
-Features:
+Features :
 Spotify-inspired user interface
 
 Music player layout design
