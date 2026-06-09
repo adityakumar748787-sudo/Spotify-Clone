@@ -6,7 +6,7 @@ This project is a basic Spotify Clone built using only HTML and CSS. It focuses 
 Features :
 Spotify-inspired user interface
 
-Music player layout design
+Music player layout designs
 
 Sidebar navigation
 
