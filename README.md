@@ -15,7 +15,7 @@ Playlist and song section layout
 Clean and responsive UI
 
 
-Technologies Used :
+Technologies Used  :
 
 HTML
 CSS
